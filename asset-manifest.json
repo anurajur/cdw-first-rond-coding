@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cdw-first-rond-coding/static/css/main.9ada9002.css",
-    "main.js": "/cdw-first-rond-coding/static/js/main.a01d5875.js",
+    "main.css": "/cdw-first-rond-coding/static/css/main.965bdd32.css",
+    "main.js": "/cdw-first-rond-coding/static/js/main.68363a76.js",
     "static/js/453.a139b726.chunk.js": "/cdw-first-rond-coding/static/js/453.a139b726.chunk.js",
     "index.html": "/cdw-first-rond-coding/index.html",
-    "main.9ada9002.css.map": "/cdw-first-rond-coding/static/css/main.9ada9002.css.map",
-    "main.a01d5875.js.map": "/cdw-first-rond-coding/static/js/main.a01d5875.js.map",
+    "main.965bdd32.css.map": "/cdw-first-rond-coding/static/css/main.965bdd32.css.map",
+    "main.68363a76.js.map": "/cdw-first-rond-coding/static/js/main.68363a76.js.map",
     "453.a139b726.chunk.js.map": "/cdw-first-rond-coding/static/js/453.a139b726.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ada9002.css",
-    "static/js/main.a01d5875.js"
+    "static/css/main.965bdd32.css",
+    "static/js/main.68363a76.js"
   ]
 }
