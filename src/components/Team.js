@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from "react";
 import TeamMembersList from "./TeamMembersList";
 import useTeamMembers from "../hooks/useTeamMembers";
-import { FaSearch } from "react-icons/fa";
+import { FaSearch, FaPlus } from "react-icons/fa";
 
 const Team = () => {
   const [searchQuery, setSearchQuery] = useState("");
@@ -85,6 +85,14 @@ const Team = () => {
       <div className="overflow-y-auto h-[29.666%]">
         <TeamMembersList members={members} />
       </div>
+      <button
+        className="fixed bottom-8 right-8 bg-[#7596e0] text-white p-6 rounded-full shadow-lg"
+        onClick={() => {
+          console.log("Add button clicked!");
+        }}
+      >
+        <FaPlus size={24} />
+      </button>
     </div>
   );
 };
